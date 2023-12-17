@@ -1,6 +1,6 @@
 # D197 Version Control
 
-MY STUDENT ID IS: 011052939
+My student ID is: 011052939
 
 ## Getting started
 
